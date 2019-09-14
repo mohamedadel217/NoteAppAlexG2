@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">NotesAppG2</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="note_added_successfully">Note addedd successfully</string>
+    <string name="ok">ok</string>
 </resources>
